@@ -1,0 +1,3 @@
+*.shaderlab linguist-vendored
+*.shader linguist-vendored
+*.hlsl linguist-vendored
