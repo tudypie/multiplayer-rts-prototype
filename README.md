@@ -1,6 +1,4 @@
-# Multiplayer-RTS-Project
-
-### Unity multiplayer game made using Mirror and FizzySteamworks
+# Unity multiplayer game made using Mirror and FizzySteamworks
 
 ### How to play
 1. Download the Game Build zip file
