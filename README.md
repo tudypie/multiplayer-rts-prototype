@@ -1,4 +1,4 @@
-# Unity multiplayer game made using Mirror and FizzySteamworks
+# Unity multiplayer game made using Mirror
 
 ### How to play
 1. Download the Game Build zip file
